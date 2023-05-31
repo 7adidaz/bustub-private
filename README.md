@@ -10,9 +10,10 @@ BusTub supports basic SQL and comes with an interactive shell. You can get it ru
 
 <img src="logo/sql.png" alt="BusTub SQL" width="400">
 
-- [x] C++ Primer 
-- [x] Buffer Pool Manager
-- [x] B+Tree Index - CheckPoint 1
+- [x] C++ Primer [score](img/p0.png)
+- [x] Homework #1 SQL [score](img/hw0.png)
+- [x] Buffer Pool Manager [score](img/p1.png), [Leaderboard](img/p1-lb.png)
+- [x] B+Tree Index - CheckPoint 1 [score](img/p2-cp1.png)
 - [ ] B+Tree Index - CheckPoint 2
-- [x] Query Execution
+- [x] Query Execution [score](img/p3.png), [Leaderboard](img/p3-lb.png)
 - [ ] Concurrency Control (WIP)
